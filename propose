@@ -1,10 +1,16 @@
 Contexte :
 
- La plupart des boulangers sont des grands consommateurs d'énergie, utilisant de nombreuses machines électriques qui consomment près de 100 000 kWh par an, les plaçant juste au seuil d'accès au marché libre de l'électricité. Nombre d'entre eux se sont vu proposer des prix avantageux pendant plusieurs années. Cependant, avec l'envolée du prix du kWh dans un contexte géopolitique tendu, leurs factures ont explosé, en plus de l'augmentation des prix des matières premières, des charges et des taxes, ainsi que de l'inflation, il est essentiel de trouver des solutions d'économies pour les boulangers afin de préserver l'artisanat. 
+ La plupart des boulangers sont des grands consommateurs d'énergie, utilisant de nombreuses machines électriques qui
+consomment près de 100 000 kWh par an, les plaçant juste au seuil d'accès au marché libre de l'électricité. Nombre d'entre
+eux se sont vu proposer des prix avantageux pendant plusieurs années. Cependant, avec l'envolée du prix du kWh dans un
+contexte géopolitique tendu, leurs factures ont explosé, en plus de l'augmentation des prix des matières premières, des
+charges et des taxes, ainsi que de l'inflation, il est essentiel de trouver des solutions d'économies pour les boulangers
+afin de préserver l'artisanat. 
 
 But :
 
- Examiner la possibilité d'optimiser leur équipement pour réduire leur consommation énergétique, tout en dynamisant leurs activités en offrant un service supplémentaire à la communauté afin d'exploiter l'énergie perdue.
+ Examiner la possibilité d'optimiser leur équipement pour réduire leur consommation énergétique, tout en dynamisant leurs
+activités en offrant un service supplémentaire à la communauté afin d'exploiter l'énergie perdue.
 
 Mesures :
 
@@ -14,18 +20,22 @@ Mesures :
 Analyse : 
 
 Optimisation des cycles de chauffe de leur four. 
-Mise en lien avec des particuliers pour mettre en location le four et donc exploiter de la chaleur morte tout en évaluant un potentiel d’économie d’énregie directement chez les particuliers. 
+Mise en lien avec des particuliers pour mettre en location le four et donc exploiter de la chaleur morte tout en évaluant
+un potentiel d’économie d’énregie directement chez les particuliers. 
 Dynamisme de la boulangerie en offrant un service supplémentaire 
 
 Je pense qu’il faudrait se concentrer sur l’interface auquel les boulanger ont accès : 
 Un Dashboard qui présente 
-- la consommation en temps réel : imaginer un système de conversion parlant genre nombre de croissant à vendre pour rentabiliser l’allumage du four etc… 
+- la consommation en temps réel : imaginer un système de conversion parlant genre nombre de croissant à vendre pour 
+rentabiliser l’allumage du four etc… 
 - Des conseils énergétiques corrélés à un potentiel d’économie
 - Des prévisions pour aide à négoce de futur contrat ? 
-- Une présentation du prix de l’électricité sur les marché actuels pour avoir une transparence et qu’ils comprennent leur facturation (sentiment de s’être fait avoir lors de la crise) 
+- Une présentation du prix de l’électricité sur les marché actuels pour avoir une transparence et qu’ils comprennent leur
+facturation (sentiment de s’être fait avoir lors de la crise) 
 
 - Présentation des économies faites grâce à la disposition du four aux ménages (sous hypothèses qu’on exploite tout) 
 
 Dans un second temps on pourrait réfléchir a une manière de mettre en relation les deux partis. 
-(comment le boulanger propose sa plac, comment confirmer sa venue, qu'est ce qu'on apporte, limites capacite de cuisson de notre plat...
+(comment le boulanger propose sa plac, comment confirmer sa venue, qu'est ce qu'on apporte, limites capacite de cuisson de
+notre plat...
 
